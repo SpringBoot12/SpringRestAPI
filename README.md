@@ -1,3 +1,3 @@
 # SpringRestAPI
 
-It supports methods GET, POST, PUT AND DELET
+It supports methods GET, POST, PUT AND DELETE
